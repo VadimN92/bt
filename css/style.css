@@ -1,0 +1,18 @@
+/* 
+	project template
+	Author: Vadim Nagirniak
+	created: 02.11.2015
+*/
+/*
+	BASE - Base styles, variables, mixins, etc.
+*/
+/*
+	MODULES - Individual site components
+*/
+/*
+	LAYOUTS - Pege layout styles
+*/
+a {
+  width: 10px;
+  height: 10px;
+  bottom: 12px; }

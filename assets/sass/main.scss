@@ -1,0 +1,37 @@
+/* 
+	project template
+	Author: Vadim Nagirniak
+	created: 02.11.2015
+*/
+
+/*
+	BASE - Base styles, variables, mixins, etc.
+*/
+@import 'base/_variables.scss';
+@import 'base/_mixins.scss';
+@import 'base/_normalize.scss';
+@import 'base/_base.scss';
+
+/*
+	MODULES - Individual site components
+*/
+@import 'modules/_blocks.scss';
+@import 'modules/_sections.scss';
+@import 'modules/_buttons.scss';
+@import 'modules/_components.scss';
+@import 'modules/_typography.scss';
+
+
+/*
+	LAYOUTS - Pege layout styles
+*/
+@import 'layouts/_header.scss';
+@import 'layouts/_footer.scss';
+@import 'layouts/_nav.scss';
+
+
+a {
+  width: 10px;
+  height: 10px;
+  bottom: 12px;
+}
